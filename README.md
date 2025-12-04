@@ -3,8 +3,26 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dataset-MovieLens_32M-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model-SVD%20|%20CF-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebooks-orange?style=for-the-badge" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/maviyauddin/movielens-32m-recommender/main/infograohic-style.png" width="100%">
 </p>
+
+## 📑 Table of Contents
+
+- [Overview](#movielens-32m--end-to-end-recommendation-system)
+- [Project Structure](#-project-structure)
+- [Dataset](#-dataset)
+- [How to Run](#-how-to-run-the-notebooks)
+- [Methods Used](#-methods-used)
+- [Possible Extensions](#-possible-extensions)
+- [Purpose](#-purpose-of-this-project)
 
 
 
