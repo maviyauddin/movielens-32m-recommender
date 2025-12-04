@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="A_banner_image_for_a_project_titled_\"MovieLens_Rec.png\"" width="100%" />
+</p>
+
+
+
 # MovieLens 32M – End-to-End Recommendation System
 
 This project is an end-to-end movie recommendation system built on the **MovieLens 32M** dataset.  
