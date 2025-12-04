@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="A_banner_image_for_a_project_titled_\"MovieLens_Rec.png\"" width="100%" />
+  <img src="https://raw.githubusercontent.com/maviyauddin/movielens-32m-recommender/main/MovieLens_Rec.png" width="100%" />
 </p>
 
 
