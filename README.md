@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/maviyauddin/movielens-32m-recommender/main/MovieLens_Rec.png" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maviyauddin/movielens-32m-recommender/main/infograohic-style.png" width="100%">
+</p>
+
 
 
 # MovieLens 32M – End-to-End Recommendation System
