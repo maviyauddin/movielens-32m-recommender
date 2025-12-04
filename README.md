@@ -197,3 +197,21 @@ Clear, organized notebooks with explanations and reproducible code
 
 Feel free to explore, fork, or extend it.
 
+---
+
+## 👤 About Me
+
+Hi, I'm **Khaja Maviya Uddin** — a Data Science student passionate about building end-to-end ML systems, data analysis, and real-world projects.  
+I'm actively seeking opportunities as a **Data Scientist / ML Engineer**.
+I’m currently applying for **(Data Scientist,ML,AI) roles** and actively growing my skills in:
+- Machine Learning  
+- Data Engineering  
+- SQL & Python  
+- Deep Learning  
+- Recommender Systems
+I love building projects that go beyond basic ML models — focusing on **clean pipelines**, **real-world datasets**, and **scalable techniques** like collaborative filtering and matrix factorization.
+
+📫 **Email:** [khajamaviyauddin@gmail.com]  
+🔗 **LinkedIn:** (https://www.linkedin.com/in/khaja-maviya-uddin-018995309/)  
+💻 **GitHub:** (https://github.com/maviyauddin)
+
